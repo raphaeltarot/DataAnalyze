@@ -3,6 +3,11 @@ from pandas import Series, DataFrame
 import os
 from matplotlib import pyplot, rc
 import numpy as np
+#from multiprocessing import Pool
+
+#P1 = Pool()
+#P1.start()
+
 
 #print("目前工作的目錄是:", os.getcwd())
 #data1 = pandas.read_csv('Data/Data21.csv', skiprows=0, index_col='FIELD_3')
